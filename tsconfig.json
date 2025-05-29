@@ -12,9 +12,9 @@
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": true,
-
+    "jsx": "react",
     /* Linting */
-    "strict": true,
+    "strict": false,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
